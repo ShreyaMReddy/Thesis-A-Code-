@@ -1,2 +1,2 @@
 # Thesis-A-Code-
-Code samples for Thesis A
+Code snippets for the reproduced SheepDog framework, Thesis A
